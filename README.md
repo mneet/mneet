@@ -19,9 +19,7 @@
 
 ### <img height="20" alt="GIF" src="https://github.com/mneet/meuPerfil/blob/main/imagens/game_controller.png?raw=true">Meus interesses pessoais:
 
-<div>
-<img align="right" alt="GIF" src="https://github.com/mneet/meuPerfil/blob/main/imagens/gengar-gif.gif?raw=true" width="340px" height="440px"/>
-</div>
+
 
 <div align="justify">
 <p>
