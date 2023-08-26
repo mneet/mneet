@@ -3,10 +3,6 @@
 ---
 
 <div>
-<tr>
- <td align="center" colspan="11"></td>
-</tr>
-
 </div>
 <div align="justify">
 <i><b>Opa, podem me chamar de Neto, tenho 22 anos e atualmente curso Análise e Desenvolvimento de Sistemas no Centro Universitário Newton Paiva. Gosto de desenvolver jogos e de tecnologia no geral, atualmente sou estagiário de desenvolvimento em sistemas financeiros.
@@ -17,7 +13,7 @@
 <div>
 
 <div>
-<img align="right" alt="GIF" src="https://github.com/mneet/mneet/blob/main/imagens/gengar-gif.gif?raw=true" width="260px" height="300px"/>
+<img align="right" alt="GIF" src="https://github.com/mneet/mneet/blob/main/imagens/gengar-gif.gif?raw=true" width="280px" height="300px"/>
 </div>
 
 ### <img height="20" alt="GIF" src="https://github.com/mneet/meuPerfil/blob/main/imagens/game_controller.png?raw=true">Meus interesses pessoais:
@@ -53,7 +49,6 @@ que continuo estudando e utilizando, e desde então estou estudando outras área
 <div>
 </table>
 <a href="https://www.linkedin.com/in/mois%C3%A9s-neto-3aa41a233/" target="_blank"><img alt"Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:moisesgneto@outlook.com" target="_blank"><img alt"Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 <a href="https://lioneet.itch.io/" target="_blank"><img alt"Itch.io" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"/></a>
 <a href="https://steamcommunity.com/id/lioneet/" target="_blank"><img alt"Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
 <a href="https://www.twitch.tv/lioneet13" target="_blank"><img alt"twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
