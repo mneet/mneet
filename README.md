@@ -1,6 +1,7 @@
 -----
 
 Olá! Meu nome é Moisés Neto, tenho 23 anos e atualmente curso Análise e Desenvolvimento de Sistemas no Centro Universitário Newton Paiva. Sou apaixonado por desenvolvimento de jogos e tecnologia em geral. Atualmente trabalho como GameDev na AfilGames.
+
 -----
 <div>
 <div>
