@@ -24,6 +24,15 @@ Olá! Meu nome é Moisés Neto, tenho 23 anos e curso Jogos Digitais na PUC Mina
 
 -----
 
+### Habilidades Técnicas
+- &nbsp; Linguagens de Programação: C#, GML, GDScript e outras
+- &nbsp; Engines: GameMaker, Unity e Godot
+- &nbsp; Desenvolvimento de sistemas, implementação de interfaces, Game Design,  etc
+- &nbsp; Modelagem básica utilizando Blender
+- &nbsp; Experiência em outras áreas de desenvolvimento profissionalmente, metodologias ágeis e trabalho em equipe
+
+-----
+
 ###
 
 <div>
