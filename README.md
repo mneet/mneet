@@ -1,6 +1,6 @@
 -----
 
-Olá! Meu nome é Moisés Neto, tenho 23 anos e atualmente curso Análise e Desenvolvimento de Sistemas no Centro Universitário Newton Paiva. Sou apaixonado por desenvolvimento de jogos e tecnologia em geral. Atualmente trabalho como GameDev na AfilGames.
+Olá! Meu nome é Moisés Neto, tenho 23 anos e curso Jogos Digitais na PUC Minas. Sou apaixonado por desenvolvimento de jogos e tecnologia em geral. Atualmente trabalho como GameDev na AfilGames.
 
 -----
 <div>
@@ -13,7 +13,7 @@ Olá! Meu nome é Moisés Neto, tenho 23 anos e atualmente curso Análise e Dese
 <div align="left">
 <p>
 - &nbsp; 💻 Comecei a me interessar por programação com o GameMaker Studio <br />e continuo estudando e utilizando essa ferramenta.<br />
-- &nbsp; 🎮 Sou um entusiasta de GameDev, atualmente trabalho desenvolvendo jogos no GameMaker e, recentemente como hobbie, na Godot.<br />
+- &nbsp; 🎮 Sou um entusiasta de GameDev, trabalho desenvolvendo jogos no GameMaker e, recentemente como hobbie, na Godot.<br />
 - &nbsp; 🖥️ Tenho experiência trabalhando com sistemas legados de pagamento e cartões <br /> (sim, eu já programei em Cobol).<br />
 - &nbsp; 🎲 Sou fã de RPGs, tanto online, como World of Warcraft e Final Fantasy XIV,<br /> quanto jogos como Baldur's Gate 3.<br />
 - &nbsp; 🎶 Gosto de Prog Metal e Power Metal, mas também aprecio um pouco de indie e MPB.<br />
