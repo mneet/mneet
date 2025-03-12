@@ -36,8 +36,7 @@ Olá! Meu nome é Moisés Neto, tenho 23 anos e curso Jogos Digitais na PUC Mina
 ###
 
 <div>
-<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=22zzovfqbjngdnkugjqupyyvy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/> &nbsp; &nbsp; 
-<img alt="Spotify list" width="300px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=22zzovfqbjngdnkugjqupyyvy"/>
+<img alt="Last.fm"src="https://lastfm-recently-played.vercel.app/api?user=Lioneet&footer_style=normal&show_user=footer&header_style=compact_stats_only"/> &nbsp; &nbsp; 
 </div>
 
 -----
