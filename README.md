@@ -1,39 +1,14 @@
------
-
-Olá! Meu nome é Moisés Neto, tenho 23 anos e curso Jogos Digitais na PUC Minas. Sou apaixonado por desenvolvimento de jogos e tecnologia em geral. Atualmente trabalho como GameDev na AfilGames.
 
 -----
-<div>
-<div>
-<img align="right" alt="GIF" src="https://github.com/mneet/mneet/blob/main/imagens/gengar-gif.gif?raw=true" width="200px" height="220px"/>
-</div>
+Opa, bão? Meu nome é Moisés Neto e sou um desenvolvedor de jogos! Tenho experiência com GameMaker, Unity e um tiquinho de Godot.
 
-### Meus interesses pessoais:
+Trabalhei com desenvolvimento de mecânicas de gameplay, implementação de interfaces e criação de sistemas e ferramentas generalistas para facilitar o desenvolvimento de jogos.
 
-<div align="left">
-<p>
-- &nbsp; 💻 Comecei a me interessar por programação com o GameMaker Studio <br />e continuo estudando e utilizando essa ferramenta.<br />
-- &nbsp; 🎮 Sou um entusiasta de GameDev, trabalho desenvolvendo jogos no GameMaker e, recentemente como hobbie, na Godot.<br />
-- &nbsp; 🖥️ Tenho experiência trabalhando com sistemas legados de pagamento e cartões <br /> (sim, eu já programei em Cobol).<br />
-- &nbsp; 🎲 Sou fã de RPGs, tanto online, como World of Warcraft e Final Fantasy XIV,<br /> quanto jogos como Baldur's Gate 3.<br />
-- &nbsp; 🎶 Gosto de Prog Metal e Power Metal, mas também aprecio um pouco de indie e MPB.<br />
-</p>
-
-</div>
-</div>
+Além disso, também atuo com porting de jogos para consoles como PS5, Switch e Xbox Series.
 
 -----
 
-### Habilidades Técnicas
-- &nbsp; Linguagens de Programação: C#, GML, GDScript e outras
-- &nbsp; Engines: GameMaker, Unity e Godot
-- &nbsp; Desenvolvimento de sistemas, implementação de interfaces, Game Design,  etc
-- &nbsp; Modelagem básica utilizando Blender
-- &nbsp; Experiência em outras áreas de desenvolvimento profissionalmente, metodologias ágeis e trabalho em equipe
-
------
-
-###
+### O que eu ando escutando:
 
 <div>
 <img alt="Last.fm"src="https://lastfm-recently-played.vercel.app/api?user=Lioneet&footer_style=normal&show_user=footer&header_style=compact_stats_only"/> &nbsp; &nbsp; 
